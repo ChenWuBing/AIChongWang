@@ -1,5 +1,5 @@
-# 格斗体育-商家端
+# 牛老板茶苑-官方版
 
-We are an app that provides online appointments for businesses that offer physical exercise classes. Businesses with physical exercise training can post their training programs on our platform, and attract more users to participate in physical training through our platform. We hope more Merchants can join us, develop together and make progress together.
+We are a platform dedicated to selling a variety of quality tea sets, and users can purchase a variety of tea sets on our platform. All tea sets on our platform are professionally tested and certified to ensure that consumers purchase the latest and highest quality tea sets.
 
-If you have any questions, please contact the technical support email: rivitt@163.com, thank you for your support.
+If you have any questions, please contact the technical support email: xiangyupao@foxmail.com, thank you for your support.
