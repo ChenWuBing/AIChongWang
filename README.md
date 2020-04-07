@@ -1,5 +1,5 @@
-# 牛老板茶楼-官方直营
+# 佰诺纸牌
 
-We are a platform dedicated to selling a variety of quality tea sets, and users can purchase a variety of tea sets on our platform. All tea sets on our platform are professionally tested and certified to ensure that consumers purchase the latest and highest quality tea sets.
+我们是一个拥有多彩多样各类纸牌的商城。拥有亲子纸牌、益智动脑纸牌、整蛊搞笑等新奇类纸牌，用户可以在我们平台看到各式各样有趣和新玩法的纸牌。相信用户能够从这些纸牌中获得更多的玩法乐趣。
 
-If you have any questions, please contact the technical support email: xiangyupao@foxmail.com, thank you for your support.
+如有任何疑问，请联系技术支持电子邮件：wlwdhhh@126.com，感谢您的支持。
